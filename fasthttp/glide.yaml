@@ -1,0 +1,13 @@
+package: github.com/Zhanat87/kubernetes/fasthttp
+import:
+- package: github.com/qiangxue/fasthttp-routing
+- package: github.com/valyala/fasthttp
+  version: ~20160617.0.0
+- package: github.com/go-kit/kit
+  version: ~0.5.0
+  subpackages:
+  - log
+- package: github.com/Sirupsen/logrus
+  version: ~1.0.0
+- package: github.com/go-logfmt/logfmt
+  version: ~0.3.0

@@ -1,2 +1,5 @@
 .idea
 /other
+fasthttp/vendor
+fasthttp/glide.lock
+fasthttp/fasthttp
